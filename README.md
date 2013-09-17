@@ -1,4 +1,6 @@
-pico-pixel-public
-=================
+[Pico Pixel] Public Issue Tracker
+=================================
 
-  Public issue tracker for Pico Pixel  http://pixelandpolygon.com
+[Go to issue tracker →](https://github.com/inalogic/pico-pixel-public/issues)
+
+[Pico Pixel]: https://pixelandpolygon.com
